@@ -10,6 +10,6 @@ document.addEventListener('DOMContentLoaded', function() {
   // Add a click event listener to the paragraph
   description.addEventListener('click', function() {
     // Navigate to the URL in the same browser tab when the paragraph is clicked
-    window.location.href = 'https://ifs.super.site/northpower';
+    window.location.href = 'https://ifs.super.site/northpower/packaged-for-you';
   });
 });
